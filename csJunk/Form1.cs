@@ -14,6 +14,7 @@ namespace csJunk
 	{
 		public Form1()
 		{
+			//master
 			InitializeComponent();
 		}
 	}
