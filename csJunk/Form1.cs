@@ -17,7 +17,7 @@ namespace csJunk
 			//master
 			InitializeComponent();
 
-			int a = 10;
+			int aa = 10;
 		}
 	}
 }
